@@ -185,6 +185,6 @@ Make sure the CSV file is in the same directory or update the file path.
 
 This script is intended for **research** of pulsed electrical systems such as:
 
-* Wire-EDM
-* Arc discharge experiments
+* EDM
+* Spark discharge experiments
 * Power electronics fault analysis
